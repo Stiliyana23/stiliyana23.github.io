@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+
+<html lang="bg">
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127142597-1" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script type="f9c9c51dba827f557efeeb05-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127142597-1');
+</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>STUDIO 4Marketing</title>
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://www.studio4.marketing/favicon.ico">
+<!-- CSS -->
+<link href="https://www.studio4.marketing/assets/plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
+<link href="https://www.studio4.marketing/assets/plugins/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+<link href="https://www.studio4.marketing/assets/plugins/owl-carousel/owl.theme.default.min.css" rel="stylesheet">
+<link href="https://www.studio4.marketing/assets/plugins/magnific-popup/magnific-popup.min.css" rel="stylesheet">
+<link href="https://www.studio4.marketing/assets/css/app.css" rel="stylesheet">
+
+<link href="https://www.studio4.marketing/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+
+<!-- Fonts/Icons -->
+<link href="https://www.studio4.marketing/assets/plugins/font-awesome/css/fontawesome-all.min.css" rel="stylesheet">
+<link href="https://www.studio4.marketing/assets/plugins/themify/themify-icons.css" rel="stylesheet">
+<script src="https://www.studio4.marketing/assets/plugins/jquery.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/bootstrap/popper.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<!-- Plugins -->
+<script src="https://www.studio4.marketing/assets/plugins/bootstrap/bootstrap.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/appear.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/easing.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/retina.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/countdown.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/imagesloaded.pkgd.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/isotope.pkgd.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/jarallax/jarallax.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/jarallax/jarallax-video.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/magnific-popup/magnific-popup.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+<script src="https://www.studio4.marketing/assets/plugins/owl-carousel/owl.carousel.min.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+
+<!-- Scripts -->
+<script src="https://www.studio4.marketing/assets/js/functions.js" type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+
+<link href="https://www.studio4.marketing/assets/css/theme-customization.css" rel="stylesheet">
+
+<!-- Captcha -->
+<script src="https://www.google.com/recaptcha/api.js?hl=bg" async defer type="f9c9c51dba827f557efeeb05-text/javascript"></script>
+
+    </head>
+
+    <body data-preloader="7" class="disable-select">
+        <header>
+    <nav class="navbar navbar-fixed">
+        <div class="container">
+            <a class="navbar-brand" href="https://www.studio4.marketing">
+                <img src="https://www.studio4.marketing/assets/images/logo3.png">
+            </a>
+            <ul class="nav dropdown-dark">
+                <li class="nav-item nav-dropdown">
+                    <a class="nav-link" href="#">Имоти</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.studio4.marketing/residential">жилищни <sup>127</sup></a></li>
+                        <li><a href="https://www.studio4.marketing/business">бизнес <sup>51</sup></a></li>
+                        <li><a href="https://www.studio4.marketing/land">земя <sup>18</sup></a></li>
+                        <li><a href="https://www.studio4.marketing/building">сгради <sup>18</sup></a></li>
+                    </ul>
+                </li>
+                <li class="nav-item nav-dropdown">
+                    <a class="nav-link" href="#">услуги</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.studio4.marketing/mediation">Посредничество</a></li>
+                        <li><a href="https://www.studio4.marketing/add-property">+Добави имот</a></li>
+                        <li><a href="https://www.studio4.marketing/service">Само за продавачи</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item nav-dropdown">
+                    <a class="nav-link" href="#">оцени моя имот</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.studio4.marketing/value-request">Ипотечни оценки</a></li>
+                        <li><a href="https://www.studio4.marketing/price-request">Анализ и проучване на инвестиционни проекти</a></li>
+                        <li><a href="https://www.studio4.marketing/value-request">Оценки на недвижими имоти за съдия-изпълнител</a></li>
+                        <li><a href="https://www.studio4.marketing/price-request">Количествено-стойностни сметки на СМР</a></li>
+                        <li><a href="https://www.studio4.marketing/price-request">Площообразуване на сгради</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.studio4.marketing/contact">контакти</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="tel:+359879070759"><i class="fa fa-phone"></i> +359879070759</a>
+                </li>
+            </ul>
+            <button class="nav-toggle-btn">
+                <span class="lines"></span>
+            </button>
+        </div>
+    </nav>
+</header>
+
+        <div class="section-fullscreen bg-image" style="background-image: url(https://www.studio4.marketing/assets/images/homepage-banner.jpg)">
+    <div class="bg-white-05">
+        <div class="container text-center">
+            <div class="position-middle">
+                <div class="row">
+                    <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                        <h1 class="display-1 font-weight-thin">404</h1>
+                        <h5>Съжаляваме, изглежда, че търсената от вас страница не съществува или може да е била преместена.</h5>
+                        <a class="button button-custom margin-top-30" href="https://www.studio4.marketing">
+                            <i class="fas fa-home"></i>Върнете началната страница
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <footer>
+    <div class="footer bg-dark-lighter">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <ul class="list-icon">
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/concept"> К О Н Ц Е П Ц И Я</a></li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/terms.pdf" target="_blank"> УСЛОВИЯ ЗА ПОЛЗВАНЕ</a></li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/sale"> ИМОТИ С НАМАЛЕНИ ЦЕНИ -%</a></li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/article1"> Оценка или Консултация ?</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <ul class="list-icon">
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/add-property"> +ДОБАВИ ИМОТ ЗА ПРОДАЖБА</a></li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/value-request"> ИПОТЕЧНИ ОЦЕНКИ</a></li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i>
+                            <form method="get" action="https://www.studio4.marketing/properties" class="inline">
+                                <button class="link-button" type="submit" name="purpose" value="Наем">Имоти под наем</button>
+                            </form>
+                        </li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/article2"> За Дизайна на пространства</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <ul class="list-icon">
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/contact"> КОНТАКТИ</a></li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="/cdn-cgi/l/email-protection#8be2e5ede4cbd8fffeefe2e4bfa5e6eaf9e0eeffe2e5ec"> Пишете ни: <span class="__cf_email__" data-cfemail="ddb4b3bbb29d8ea9a8b9b4b2e9f3b0bcafb6b8a9b4b3ba">[email&#160;protected]</span></a></li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="tel:+359879070759"> ТЕЛЕФОН: +359879070759</a></li>
+                        <li><i class="far fa-square" style="margin-right: 5px"></i><a href="https://www.studio4.marketing/reviews"> Вашето мнение е ценно за нас</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <a href="https://www.studio4.marketing"><img src="https://www.studio4.marketing/assets/images/logo.png" alt="logo"></a>
+                </div>
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end footer -->
+    <div class="footer-bottom bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-4 text-center text-md-left">
+                    <p>&copy; 2018 Studio4.marketing</p>
+                </div>
+                <div class="col-12 col-md-4 text-center">
+                    <p class="inveitix">Developed by <a href="http://inveitix.com" target="_blank">Inveitix</a></p>
+                </div>
+                <div class="col-12 col-md-4 text-center text-md-right">
+                    <ul class="list-horizontal-unstyled custom-label">
+                        <li><a href="https://www.facebook.com/Studio4marketing-250069172378934/posts" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.instagram.com/studio4.marketing" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/studio4marketing" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="https://twitter.com/studio4market" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                    </ul>
+                </div>
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end footer-bottom -->
+    <!-- Scripts -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="f9c9c51dba827f557efeeb05-text/javascript">
+        $('#flash-overlay-modal').modal({backdrop: false});
+    </script>
+    <script type="f9c9c51dba827f557efeeb05-text/javascript" src="https://www.studio4.marketing/js/moment.min.js" charset="utf-8"></script>
+    <script type="f9c9c51dba827f557efeeb05-text/javascript" src="https://www.studio4.marketing/js/moment.bg.js" charset="utf-8"></script>
+    <script type="f9c9c51dba827f557efeeb05-text/javascript" src="https://www.studio4.marketing/js/transition.js" charset="utf-8"></script>
+    <script type="f9c9c51dba827f557efeeb05-text/javascript" src="https://www.studio4.marketing/js/collapse.js" charset="utf-8"></script>
+    <script type="f9c9c51dba827f557efeeb05-text/javascript" src="https://www.studio4.marketing/js/bootstrap-datetimepicker4.min.js" charset="utf-8"></script>
+</footer>
+    <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="f9c9c51dba827f557efeeb05-|49" defer></script></body>
+</html>

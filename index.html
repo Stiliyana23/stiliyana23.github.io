@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Агенция за недвижими имоти в Благоевград Studio4.marketing. Сделки с недвижими имоти, наеми, пазарни оценки, кредитно посредничество, пазарни проучвания" />
+  <meta name="keywords" content="квартири благоевград, апартаменти благоевград, апартамент под наем благоевград, ново строителство благоевград, магазин под наем благоевград, офис под наем благоевград, апартамент Еленово, апартамент в строеж благоевград, имоти в Благоевград, къщи за продажба в Благоевград, blagoevgrad real estates, blagoevgrad properties" />
+  <meta property="og:title" content="STUDIO 4Marketing" />
+  <meta property="og:image" content="./assets/images/new.jpg" />
+  <title>STUDIO 4Marketing</title>
+  <link rel="icon" href="./favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Onest:wght@300;400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+  <script type="importmap">
+  {
+    "imports": {
+      "preact": "https://esm.sh/preact@10.29.2",
+      "preact/": "https://esm.sh/preact@10.29.2/",
+      "htm/preact": "https://esm.sh/htm@3.1.1/preact?external=preact",
+      "@preact/signals": "https://esm.sh/@preact/signals@2.9.1?external=preact"
+    }
+  }
+  </script>
+  <link rel="modulepreload" href="https://esm.sh/preact@10.29.2" />
+  <link rel="modulepreload" href="https://esm.sh/htm@3.1.1/preact?external=preact" />
+  <link rel="modulepreload" href="https://esm.sh/@preact/signals@2.9.1?external=preact" />
+  <link rel="modulepreload" href="./components.js" />
+</head>
+<body>
+  <div id="app"></div>
+  <script type="module">
+    import { renderApp } from "./components.js";
+    renderApp(document.getElementById("app"));
+  </script>
+</body>
+</html>
